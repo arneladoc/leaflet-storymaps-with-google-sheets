@@ -113,7 +113,8 @@ a.source:visited {
 
 .description {
   margin: 20px;
-  text-align: left;
+  text-align: justify;
+  text-justify: inter-word;
   font-size: 11pt;
   padding: 20px;
 }

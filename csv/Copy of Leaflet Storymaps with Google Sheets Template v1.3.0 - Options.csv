@@ -2,7 +2,7 @@ Setting,Customize,Hints
 Storymap Info,,"For help, see tutorial in HandsOnDataViz.org"
 Storymap Title,Turistička Organizacija BPK Goražde,
 Storymap Subtitle,,"Add your subtitle, or delete that portion"
-Storymap Logo,leaflet-storymaps-with-google-sheets/media/logo TO.png,Path to a logo image
+Storymap Logo,,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
 Map Settings,,"For help, see tutorial in HandsOnDataViz.org"
 Basemap Tiles,CartoDB.Positron,Drop-down menu for background basemap tiles

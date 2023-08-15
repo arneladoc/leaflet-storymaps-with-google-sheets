@@ -84,8 +84,8 @@ body {
 .img-container {
   margin: 0;
   margin-bottom: 5px;
-  height: 200px;
-  max-height: 200px;
+  height: 100px;
+  max-height: 100px;
   width: 100%;
 }
 
@@ -115,13 +115,13 @@ a.source:visited {
 }
 
 .description {
-  margin: 25px;
+  margin: 20px;
   text-align: justify;
   text-justify: inter-word;
-  font-size: 12pt;
+  font-size: 11pt;
   font-family: Arial, sans-serif;
   background-color: #FFFFFF;
-  padding: 25px;
+  padding: 20px;
 }
 
 .in-focus {

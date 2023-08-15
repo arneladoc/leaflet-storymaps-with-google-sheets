@@ -101,7 +101,8 @@ body {
   display: block;
   text-align: center;
   font-size: 1.2em;
-  font-family: Garamond, serif;
+  font-family: Arial, sans-serif;
+  font-style: bold, italic;
   padding: 0 5px;
 }
 

@@ -173,7 +173,7 @@ a.source:visited {
 
 /* Storymap title & subtitle */
 h1 {
-  margin: 0;
+  margin: 1.5;
   font-family: Arial, sans-serif;
   font-size: 0.15 em;
 }

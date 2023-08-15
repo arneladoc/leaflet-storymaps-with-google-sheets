@@ -108,7 +108,7 @@ body {
 .source {
   font-size: 9pt;
   font-style: italic;
-  color: gray;
+  color: #F8F8FF;
 }
 a.source:visited {
   color: grey;

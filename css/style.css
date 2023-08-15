@@ -172,6 +172,7 @@ a.source:visited {
 /* Storymap title & subtitle */
 h1 {
   margin: 0;
+  font-family: 'Brush Script MT', cursive;
   font-size: 1.1em;
 }
 

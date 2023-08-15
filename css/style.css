@@ -76,7 +76,7 @@ body {
   margin-right: auto;
 
   /* Three lines that center vertically */
-  position: relative;
+  position: center;
   top: 50%;
   transform: translateY(-50%);
 }

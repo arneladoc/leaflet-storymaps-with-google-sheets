@@ -108,20 +108,20 @@ body {
 .source {
   font-size: 9pt;
   font-style: italic;
-  color: #F5FFFA;
+  color: black;
 }
 a.source:visited {
-  color: #F5FFFA;
+  color: black;
 }
 
 .description {
-  margin: 20px;
+  margin: 25px;
   text-align: justify;
   text-justify: inter-word;
-  font-size: 11pt;
+  font-size: 12pt;
   font-family: Arial, sans-serif;
   background-color: #FFFFFF;
-  padding: 20px;
+  padding: 25px;
 }
 
 .in-focus {
